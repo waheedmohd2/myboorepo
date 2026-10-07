@@ -1,0 +1,11 @@
+streamlit
+reportlab
+pillow
+pypdf
+pymupdf
+numpy
+requests
+openpyxl
+python-docx
+playwright
+
